@@ -29,3 +29,6 @@ This software is provided for educational and entertainment purposes only. The a
 # ⚠️ Use responsibly 
 
 <img width="1468" height="1071" alt="ChatGPT Image Aug 6, 2026, 07_13_15 PM" src="https://github.com/user-attachments/assets/6790f1dc-1e3c-4f47-815a-393d09fb2ff4" />
+
+<img width="1513" height="1040" alt="ChatGPT Image Aug 6, 2026, 09_00_56 PM" src="https://github.com/user-attachments/assets/a6498ca5-e615-441e-915b-2e806dab11a5" />
+
