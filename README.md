@@ -11,7 +11,8 @@ Features:
 - Unique RM77 room-code system
 # REQUIREMNT
 
-# pip install colorama 
+# pip install colorama
+# pip install paho-mqtt colorama
 
 # Usage
 1. Enter your nickname.
