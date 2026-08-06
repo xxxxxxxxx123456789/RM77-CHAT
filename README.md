@@ -27,6 +27,9 @@ Features:
 This software is provided for educational and entertainment purposes only. The author assumes no responsibility for any misuse, illegal activities, damages, data loss, or consequences resulting from the use of this software. Users are solely responsible for complying with all applicable laws and regulations in their country or region.
 
 # ⚠️ Use responsibly 
+# PROOF
+<img width="1536" height="1024" alt="ChatGPT Image Aug 6, 2026, 09_46_29 PM" src="https://github.com/user-attachments/assets/89228331-e562-410d-8045-07b5fdabd107" />     <img width="1917" height="946" alt="Screenshot 2026-08-06 214222" src="https://github.com/user-attachments/assets/cc5b6373-707e-49df-887a-6e3c135ea189" />
+
 
 # KALI LINUX VERSION 
 <img width="1468" height="1071" alt="ChatGPT Image Aug 6, 2026, 07_13_15 PM" src="https://github.com/user-attachments/assets/6790f1dc-1e3c-4f47-815a-393d09fb2ff4" />
