@@ -10,10 +10,12 @@ Features:
 - Real-time communication
 - Unique RM77 room-code system
 # REQUIREMNT
-
+# FOR WINDOWS AND TERMUX I ADDED A FEATURE WHICH IT INSTALL AUTO THE REQUIREMTNS DON'T WORRY 
+--------------------------------------------------------------------------------------------------------------
+# 🌐THIS IS FOR KALI LINUX🌐
 # pip install colorama
 # pip install paho-mqtt colorama
-
+---------------------------------------------------------------------------------------------------------------
 # Usage
 1. Enter your nickname.
 2. Choose your chat color.
